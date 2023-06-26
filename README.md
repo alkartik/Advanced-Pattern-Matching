@@ -1,1 +1,1 @@
-# Advanced-Pattern-Matching
+Given a string p with wildcards (characters that don't have to match) of length m and a string x with wildcards (characters that don't have to match) of length n , Using Rabin Karp Algorithm found all occurrences of p in x (Assume m ≤ n) Time complexity=O(m+n) .The algorithm does report false positives with a tiny probability ε. 
